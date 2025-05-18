@@ -1,4 +1,4 @@
-# ❤️ Continuous Patient ECG Monitoring System
+# 📈Continuous Patient ECG Monitoring System
 
 *A modular IoT-based system for real-time ECG monitoring and abnormal heart rate detection using ESP32 and MQTT.*
 
