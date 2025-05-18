@@ -1,0 +1,10 @@
+{
+  "chip": {
+    "pins": [
+      { "name": "VCC", "type": "power", "number": 1 },
+      { "name": "GND", "type": "ground", "number": 2 },
+      { "name": "OUT", "type": "output", "number": 3 }
+    ],
+    "code": "user-ecg-breakout1.chip.c"
+  }
+}

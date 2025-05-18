@@ -1,0 +1,23 @@
+{
+  "name": "Lora SX1278",
+  "author": "",
+  "pins": [
+    "GND",
+    "GND",
+    "VCC",
+    "RST",
+    "DIO0",
+    "DIO1",
+    "DIO2",
+    "DIO3",
+    "GND",
+    "DIO4",
+    "DIO5",
+    "SCK",
+    "MISO",
+    "MOSI",
+    "NSS",
+    "GND"
+  ],
+  "controls": []
+}

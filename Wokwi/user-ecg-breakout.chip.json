@@ -1,0 +1,11 @@
+{
+  "name": "user-ecg-breakout1",
+  "author": "",
+  "pins": [
+    "VCC",
+    "GND",
+    "IN",
+    "OUT"
+  ],
+  "controls": []
+}
